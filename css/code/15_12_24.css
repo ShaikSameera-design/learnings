@@ -1,0 +1,34 @@
+*{
+    padding:0;
+    margin:0;
+    color:white
+}
+#navbar{
+    height:50px;
+    background-color:#0f1111;;
+}
+input{
+    color:black
+}
+button{
+    background-color:#f08804;
+}
+#logo{
+    color:#f08804;
+    font-size:25px;
+}
+a{
+    margin-right: 150px;
+    text-decoration: none;
+}
+.box{
+    height:100px;
+    width:200px;
+    border:2px solid black;
+    display:inline-block;
+    color: red;
+    
+}
+#content{
+    height:600px;
+}
