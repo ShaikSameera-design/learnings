@@ -1,0 +1,5 @@
+#box {
+  margin-top: 20px;
+  border: 2px solid black;
+  transition: background 0.3s;
+}
